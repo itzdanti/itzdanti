@@ -24,3 +24,6 @@ I am a full stack developer, I know 14+ languages, including:
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
 
 bep blop beep bap
+
+support me:
+[![itzdanti.donate Badge](https://img.shields.io/badge/-donate.itzdanti.dev-000000?style=flat&logo=Google-Chrome&logoColor=white&link=https://donate.itzdanti.dev)](https://donate.itzdanti.dev)
