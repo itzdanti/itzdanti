@@ -1,8 +1,8 @@
 # Hi! I'm ItzDanti 👋
 [![NameMC Badge](https://img.shields.io/badge/-ItzDanti-000000?style=flat&logo=NameMC&logoColor=white&link=https://itzdanti.dev/namemc)](https://itzdanti.dev/namemc)
 [![Discord Badge](https://img.shields.io/badge/-Discord-000000?style=flat&logo=Discord&logoColor=white&link=https://itzdanti.dev/discord)](https://itzdanti.dev/discord)
-[![Website Badge](https://img.shields.io/badge/-itzdanti.ru-000000?style=flat&logo=Google-Chrome&logoColor=white&link=https://itzdanti.dev)](https://itzdanti.dev)
-[![Gmail Badge](https://img.shields.io/badge/-contact@itzdanti.ru-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@itzdanti.dev)](mailto:contact@itzdanti.dev)
+[![Website Badge](https://img.shields.io/badge/-contact.itzdanti.dev-000000?style=flat&logo=Google-Chrome&logoColor=white&link=https://contact.itzdanti.dev)](https://contact.itzdanti.dev)
+[![Gmail Badge](https://img.shields.io/badge/-contact@itzdanti.dev-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@itzdanti.dev)](mailto:contact@itzdanti.dev)
 
 I am a full stack developer, I know 14+ languages, including:
 
