@@ -1,4 +1,4 @@
-# Hi! I'm ItzDanti 👋
+# Hi! I'm dani 👋
 [![NameMC Badge](https://img.shields.io/badge/-ItzDanti-000000?style=flat&logo=NameMC&logoColor=white&link=https://itzdanti.dev/namemc)](https://itzdanti.dev/namemc)
 [![Discord Badge](https://img.shields.io/badge/-Discord-000000?style=flat&logo=Discord&logoColor=white&link=https://itzdanti.dev/discord)](https://itzdanti.dev/discord)
 [![Website Badge](https://img.shields.io/badge/-contact.itzdanti.dev-000000?style=flat&logo=Google-Chrome&logoColor=white&link=https://contact.itzdanti.dev)](https://contact.itzdanti.dev)
