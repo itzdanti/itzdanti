@@ -1,30 +1,77 @@
-# Hi! I'm aki 👋
-[![NameMC Badge](https://img.shields.io/badge/-ItzDanti-000000?style=flat&logo=NameMC&logoColor=white&link=https://itzdanti.dev/namemc)](https://itzdanti.dev/namemc)
-[![Discord Badge](https://img.shields.io/badge/-Discord-000000?style=flat&logo=Discord&logoColor=white&link=https://itzdanti.dev/discord)](https://itzdanti.dev/discord)
-[![Website Badge](https://img.shields.io/badge/-contact.itzdanti.dev-000000?style=flat&logo=Google-Chrome&logoColor=white&link=https://contact.itzdanti.dev)](https://contact.itzdanti.dev)
-[![Gmail Badge](https://img.shields.io/badge/-contact@itzdanti.dev-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@itzdanti.dev)](mailto:contact@itzdanti.dev)
+<h1 align="center"> aki / not an experienced coder </h1>
 
-I am a full stack developer, I know 14+ languages, including:
+###
 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
-![.NET](https://img.shields.io/badge/-.NET%208.0+-000000?logo=dotnet)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
-![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="next.js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="node.js logo"  />
+</div>
 
-bep blop beep bap
+###
 
-support me:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="github actions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=workers" height="40" alt="wrangler / cloudflare workers logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch logo"  />
+</div>
 
-[![itzdanti.donate Badge](https://img.shields.io/badge/-donate.itzdanti.dev-000000?style=flat&logo=Google-Chrome&logoColor=white&link=https://donate.itzdanti.dev)](https://donate.itzdanti.dev)
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=clion" height="40" alt="clion logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
+</div>
+
+###
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzdanti/itzdanti/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzdanti/itzdanti/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/itzdanti/itzdanti/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<h3 align="center"> my socials and other things: (clickable)</h3>
+
+<div align="center">
+  <a href="https://itzdanti.dev/discord" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"/></a>
+  <img width="12" />
+  <a href="mailto:contact@itzdanti.dev" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="email logo"/></a>
+  <img width="12" />
+  <a href="https://x.com/itzdanti" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter / x logo"/></a>
+  <img width="12" />
+  <a href="https://github.com/itzdanti" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/></a>
+</div>
