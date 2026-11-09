@@ -1,4 +1,6 @@
 <h1 align="center"> aki / not an experienced coder </h1>
+<h3 align="center"> visitor counter: </h1>
+<p align="center"><img src="https://count.getloli.com/@GitHub_itzdanti?name=GitHub_itzdanti&theme=original-new&padding=7&offset=0&align=top&scale=0.5&pixelated=0&darkmode=1" alt="Счётчик посетителей"/></p>
 
 ###
 
